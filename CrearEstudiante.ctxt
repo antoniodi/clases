@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CrearEstudiante()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CrearEstudiante\r\n
+comment1.params=fullName\ studentID
+comment1.target=Student\ crear(java.lang.String,\ java.lang.String)
+numComments=2
